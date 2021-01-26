@@ -1,8 +1,8 @@
 ---
 layout: section-intro
-title: Debt Strikes
+title: Huelgas Deuda
 types:
-  - name: Compra de deudas
+  - name: Compra de deuda
     url: debt-buy-backs
   - name: Huelga de préstamos estudian-tiles
     url: debt-buy-backs
