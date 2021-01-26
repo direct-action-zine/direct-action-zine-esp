@@ -2,7 +2,7 @@
 layout: contents
 title: Agradecimientos
 types:
-  - name: Huelgas deuda
+  - name: Huelgas de la Deuda
     url: debt-strikes
     numUrl: 1-debt-strikes
   - name: Campamen-tos

@@ -1,6 +1,6 @@
 ---
 layout: section-intro
-title: Huelgas Deuda
+title: Huelgas de la Deuda
 types:
   - name: Compra de deuda
     url: debt-buy-backs
