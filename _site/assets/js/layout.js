@@ -8,7 +8,7 @@ const backgrounds = [
   ];
   
   let selectBackgroundFile = backgrounds[Math.floor(Math.random() * backgrounds.length)];
-  let fileDirectory = "/assets/images/backgrounds/";
+  let fileDirectory = "/spanish/assets/images/backgrounds/";
   let openTag = "url('";
   let closeTag = "')";
   

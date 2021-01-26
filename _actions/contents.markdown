@@ -2,7 +2,7 @@
 layout: contents
 title: Agradecimientos
 types:
-  - name: Huelgas de deuda
+  - name: Huelgas deuda
     url: debt-strikes
     numUrl: 1-debt-strikes
   - name: Campamen-tos
@@ -14,7 +14,7 @@ types:
   - name: Acciones en solida-ridad
     url: jail-court-solidarity
     numUrl: 4-jail-court-solidarity
-  - name: Huelgas de laborales
+  - name: Huelgas laborales
     url: labor-strikes
     numUrl: 5-labor-strikes
   - name: Preguntas
