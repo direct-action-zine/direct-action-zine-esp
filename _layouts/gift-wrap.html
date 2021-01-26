@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <title> Direct Action for Prison Abolition </title>
+
+  <link rel="stylesheet" type="text/css" href="{{"/assets/css/layout.css" | relative_url}}">
+  <link rel="icon" 
+      href="favicon.ico" />
+</head>
+
+<body>
+
+  <div class="gift-wrap">
+    {{ content }}
+  </div>
+
+
+  <footer class="bottom">
+    <ul class="nav">
+      <li class="standout"> <a href="{{"index.html" | relative_url}}"> Acción Directa para la Abolición de las Prisiones </a> </li>
+      {% capture actions %}{{page.collection}}{% endcapture %}
+
+      {% if page.collection %}
+      {% assign  document = site[actions] %}
+      {% endif %}
+
+      {% for links in document  %}
+      {% if links.title == page.title %}
+      {% unless forloop.first %}
+      {% assign prevurl = prev.url %}
+      {% endunless %}
+      {% unless actions.last.url %}
+      {% assign next = document[forloop.index] %}
+      {% assign nexturl = next.url %}
+      {% endunless %}
+      {% endif %}
+      {% assign prev = links %}
+      {% if page.collection %}
+      {% assign  document = site[actions] %}
+      {% endif %}
+
+      {% for links in document  %}
+      {% if links.title == page.title %}
+      {% unless forloop.first %}
+      {% assign prevurl = prev.url %}
+      {% endunless %}
+      {% unless actions.last.url %}
+      {% assign next = document[forloop.index] %}
+      {% assign nexturl = next.url %}
+      {% endunless %}
+      {% endif %}
+      {% assign prev = links %}
+      {% endfor %}{% endfor %}
+      <li>
+        {% if prevurl %}
+        <a href="{{ prevurl | relative_url}}">
+          <img src="{{"assets/images/previous.png" | relative_url}}"
+            alt="a scribble of a left pointing arrow arrow directing you to the previous page" class="arrow"
+            style="transition: cubic-bezier(0.39, 0.575, 0.565, 1)" />
+        </a>
+        {% endif %}
+      </li>
+      <li>
+        <div class="dropdown">
+          <button class="dropbtn" onclick="document.location='{{"/actions/contents.html" | relative_url}}'">Tabla de Contenido</button>
+          <div class="dropdown-content">
+            {% if page.url contains 'actions' %}
+            <a href="/actions/debt-strikes/1-debt-strikes.html"> Huelgas de deuda </a>
+            <a href="/actions/encampments/2-encampments.html"> Campamentos </a>
+            <a href="/actions/inside-outside/3-inside-outside.html"> Acciones internas / externas </a>
+            <a href="/actions/jail-court-solidarity/4-jail-court-solidarity.html"> Acciones en solidaridad </a>
+            <a href="/actions/labor-strikes/5-labor-strikes.html"> Huelgas de laborales </a>
+            <a href="/actions/questions/6-questions.html"> Preguntas </a>
+            {% endif %}
+          </div>
+        </div>
+      </li>
+      <li>
+        {% if nexturl %}
+        <a href="{{ nexturl | relative_url }}">
+          <img src="{{"assets/images/next.png" | relative_url}}"
+            alt="another arrow which is pointing right and directing you to the next page" class="arrow"
+            style="transition: cubic-bezier(0.39, 0.575, 0.565, 1)" />
+        </a>
+        {% endif %}
+      </li>
+    </ul>
+  </footer>
+
+  <script src="{{"/assets/js/layout.js" | relative_url}}"></script>
+
+</body>

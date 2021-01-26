@@ -1,0 +1,14 @@
+Huelga de préstamos estudiantiles
+Una organización que ha aprovechado el poder colectivo ofreciendo a los deudores una plataforma compartida para hacer demandas y tomar acciones directas es el Colectivo de la Deuda (the Debt Collective).
+
+![Una bola negra y una cadena está ornamentada con las palabras "PRÉSTAMOS ESTUDIANTILES](/assets/images/actions/debt-strikes/student-loan-strike/ball-and-chain.jpg)
+> Washington, D.C. 10 de octubre de 2016. La protesta Stop the Machine, también se unió a las protestas Occupy DC ya en curso (entonces en su sexto día), una rama de las protestas Occupy Wall Street en la ciudad de Nueva York. Imagen vía [thisisbossi/Flickr](https://www.flickr.com/photos/thisisbossi/).
+
+"Decenas de millones de nosotros tenemos una deuda estudiantil de más de 1.5 billones de dólares", se lee en el [sitio web](https://strike.debtcollective.org/) del Colectivo de la Deuda, en el que se puede firmar un compromiso y seguir su campaña. "Nuestra deuda es el enriquecimiento de alguien, lo que también la convierte en una forma de apalancamiento sobre las agencias gubernamentales y las empresas privadas que nos están extrayendo dinero. Cada año, un millón de personas no pueden pagar sus deudas."
+Aunque una huelga de deuda estudiantil a gran escala aún no ha tenido lugar, [The New Republic](https://newrepublic.com/article/156468/radical-possibilities-not-paying-student-loans) señaló que el modelo de rechazo masivo del Colectivo de la Deuda "ya ha funcionado antes".
+
+
+![A close-up of a red-and-white name tag on someone’s shirt says, “Hello my debt is $50,000 (!)”](/assets/images/actions/debt-strikes/student-loan-strike/my-debt-is.jpg)
+> Noche de la Deuda Viva, Ciudad de Nueva York, NY 22 de junio de 2012. Etiqueta de "Saliendo". Imagen a través de* [*Max Lib/Flickr.*](https://www.flickr.com/photos/68294660@N06/) 
+
+Como Nick Martin informó, "Corinthian Colleges era una empresa que poseía una serie de instituciones de educación superior con fines de lucro en todo el país. Nathan Hornes fue uno de los estudiantes de quién Corinthian se aprovechó en los Estados Unidos y Canadá. En 2015, Hornes y otras 14 víctimas de Corinthian tomaron la medida de negarse a pagar sus préstamos estudiantiles. La huelga se produjo [en medio de una serie de demandas](https://www.newyorker.com/business/currency/student-debt-revolt-begins) presentadas contra Corinthian por los estados de California y Massachusetts, y sirvió de señal para los otros miles de personas que habían sido víctimas de una situación similar. De acuerdo con estos esfuerzos, los huelguistas consiguieron finalmente [480 millones](https://www.consumerfinance.gov/about-us/newsroom/cfpb-secures-480-million-in-debt-relief-for-current-and-former-corinthian-students/) de dólares en alivio de deudas.

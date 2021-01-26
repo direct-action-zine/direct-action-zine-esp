@@ -1,0 +1,25 @@
+La Alianza Clamshell, que se formó en 1976 como parte de los movimientos antinucleares y medioambientales, utilizó los campamentos como táctica principal en su campaña para detener la construcción de una planta de energía nuclear de doble reactor cerca de Seabrook, New Hampshire.
+
+*Lo que sigue es un extracto de un artículo de 1977 de Rolling Stones, "[The Clamshell Alliance Holds Nukes at Bay"](https://www.rollingstone.com/culture/culture-news/the-clamshell-alliance-holds-nukes-at-bay-188179/), por Michael Aron.*
+
+"Clamshell es una coalición de grupos que se unieron el año pasado después de que todos los intentos legales para detener a Seabrook fracasaran", explicó Anna Gyorgy [organizadora de la Alianza Clamshell].
+ Imagen a través de Ed Heddman, Grace Heddman, Gale Jackson y Jennifer Kraar. Publicado por la [War Resisters League](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~299740~90070739:Nuclear-America-), 1979.
+
+![A map of the United States is spotted with red blobs that  indicate all of the places where nuclear testing has happened. A title above the map reads “Nuclear America.”](/assets/images/actions/encampments/anti-nuclear-movement/nuclear-america.jpg)
+> "Gyorgy dijo que la coalición se enteró de la ocupación de un sitio nuclear en Alemania Occidental, y del activismo en Dinamarca que obligó a que el Gobierno danés cancelara seis plantas nucleares allí.
+Imagen a través de [Peg Averill, de la Liga de Resistencia a la Guerra.](https://postermuseum.com/products/no-nuclear-terror-power-or-weapons)
+
+
+Inspirados por los éxitos de los europeos, la gente de Nueva Inglaterra comenzó a hablar de la acción directa. En el amargo frío de enero de 1976, un recolector de manzanas de 22 años llamado Ron Rieck acampó durante 36 horas en una torre meteorológica. En abril de 1976 casi 300 personas caminaron hasta la planta de Seabrook y pasaron un día tranquilo allí.
+
+El 1 de agosto de 1976 el Clamshell envió una pequeña fuerza de ocupación a la planta de Seabrook. Dieciocho personas fueron arrestadas. Tres semanas después, lxs Clams regresaron. Esta vez 180 fueron arrestados. En una Feria de Energía Alternativa en octubre, lxs Clams fijaron el 30 de abril de 1977, como fecha para la siguiente ocupación, decididas a presentarse con 1,800 personas. "Es cósmico", dijo Gyorgy. "Dijimos que creceríamos diez veces y lo hicimos."
+
+![A drawing of two skeletons, both wearing suits and ties. Across their bodies are the words “No Nuclear Terror - Power or Weapons!” ](/assets/images/actions/encampments/anti-nuclear-movement/skulls.jpg)
+> Un dibujo de dos esqueletos, ambos con traje y corbata. A través de sus cuerpos están las palabras "¡No al terror nuclear - Poder o armas!" 
+
+Por consiguiente, el 30 de abril, no se permitió a nadie en la planta de Seabrook que no hubiera recibido entrenamiento **Cuáquero (o su equivalente)** en desobediencia civil no violenta. Las sesiones de entrenamiento, que habían comenzado en marzo, consistieron de cuatro a seis horas de discusiones y juegos de rol para enseñar a los ocupantes cómo resistir la provocación de la policía, la prensa, los agitadores, los jueces y los carceleros. A las personas que llegaron a Seabrook sin entrenamiento se les dio un curso intensivo de dos horas en la mañana del 30 de abril por el Movimiento para una Nueva Sociedad, una comuna de Filadelfia dedicada a la conciencia superior. Una publicación de Clamshell, "El Manual del Ocupante", que refleja la orientación cuáquera, establece siete principios de conducta: no drogas, no alcohol, no correr, no moverse en la oscuridad, no armas, no destrucción y no violencia. Para garantizar que ningún provocador infiltrara el lugar, se les entregó a los participantes brazaletes y se los dividió en "grupos de afinidad" de diez a veinte. Estos grupos de afinidad pueden ser reunidos dentro de 24 horas.
+
+![Sorry, there is no image description for this image yet. Please remind !](/assets/images/actions/encampments/anti-nuclear-movement/woodcut.png)
+> Imagen a través del* [*Archivo de Interferencias.*](https://interferencearchive.org/
+
+El 30 de abril 2,000 hombres y mujeres llegaron a Seabrook preparados para ser arrestados y encarcelados. Cada uno de ellos habían sido entrenados en la desobediencia civil no violenta. Marchando desde cuatro direcciones, llevando pesadas mochilas, cantando, gritando y aullando, se reunieron en el lugar donde se proponía la instalación de una planta de energía nuclear y se sentaron allí durante 23 horas. Seiscientas personas de los medios de comunicación habían sido invitadas; más de 400 vinieron. Para prevenir la violencia, Clamshell había informado con antelación a la oficina del gobernador y a la policía de todos sus movimientos. El equipo de video de Clamshell grabó el evento. El Primero de Mayo comenzaron los arrestos. Le tomó a la policía estatal de cinco estados de Nueva Inglaterra 15 horas para remover a todos los ocupantes."
