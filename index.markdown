@@ -13,5 +13,5 @@ alt="A halftone, blob-shaped image in black and peach shows a pixelated photogra
 <h1 class="title abolition">PRISIONES</h1>
 
 <!-- <button class="language" onclick="document.location='{{"index.html" | relative_url}}'">English</button> -->
-<button class="language" onclick="document.location='{{"/" | relative_url}}'">Inglés</button>
+<button class="language" onclick="document.location='{{"../" | relative_url}}'">Inglés</button>
 </div>
